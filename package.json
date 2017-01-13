@@ -1,5 +1,5 @@
 {
-  "name": "@phlco/intro-to-rendering",
+  "name": "intro-to-rendering",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
