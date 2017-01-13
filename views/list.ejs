@@ -6,7 +6,14 @@
 </head>
 <body>
 
-  <h1>Hello from Views</h1>
+  <h1><%= message %></h1>
+
+  <ul>
+  <% list.forEach(function(n){ %>
+    <li><%= n %></li>
+  <% }) %>
+  </ul>
+
 
 
 </body>
